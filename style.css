@@ -1,3 +1,37 @@
 * {
     font-family: 'Open Sans', sans-serif;
+    background: lightgray;
 }
+
+.dish {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-color: lightblue;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(48, 161, 161, 0.2);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    border-radius: 5%;
+    object-fit: contain;
+}
+
+.cat {
+    height:300px;
+    width: 300px;
+}
+   
+
+.btn-group {
+    border: 1px solid black; /* Green border */
+    background-color: lightblue;
+    width: 35%; /* Set a width if needed */
+    border-radius: 5px; /* Rounded borders */
+  }
+
+ 
