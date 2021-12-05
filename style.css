@@ -24,10 +24,18 @@
 }
    
 
-.btn-group {
-    width: 35%; 
-    border-radius: 5px;
+
+.button {
+    background-color: sandybrown;
+    border:1px black;
+    border-radius:5px;
+    color: black;
+    padding: 10px 24px;
+    cursor: pointer;
+    width: 32%;
+    display: block;
     }
+
 
   ul {
     padding: .5em;
